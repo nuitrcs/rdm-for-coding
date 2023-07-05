@@ -4,4 +4,4 @@ Did you know that good data management practices can make computational research
 
 Slides for this workshop are included in this directory (Slides_Data_management_for_computational_research.pdf)
 
-Or in [SharePoint](https://nuwildcat.sharepoint.com/:p:/s/NUIT-RCS/EZ__LjstN_tAkzqh8CrRF8EBSoDTQCx9chRaDJHuOZr8Dw?e=gSaxi7) until July 31 with the password 20230706RDM. 
+Or in [SharePoint](https://nuwildcat.sharepoint.com/:p:/s/NUIT-RCS/EZ__LjstN_tAkzqh8CrRF8EBSoDTQCx9chRaDJHuOZr8Dw?e=gSaxi7) until July 31 with the password `20230706RDM`. 
